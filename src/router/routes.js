@@ -14,8 +14,8 @@ const routes = [
   },
 
  {
-    path: '/register',
-    component: () => import("src/components/auth/RegisterForm.vue"),
+    path: '/listcard',
+    component: () => import("src/components/auth/ListCardForm.vue"),
   },
 
 
